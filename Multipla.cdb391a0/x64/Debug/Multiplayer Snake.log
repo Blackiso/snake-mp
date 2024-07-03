@@ -1,0 +1,3 @@
+﻿  game.c
+C:\Users\black\source\repos\Multiplayer Snake\game.c(22,8): warning C4013: 'time' undefined; assuming extern returning int
+  Multiplayer Snake.vcxproj -> C:\Users\black\source\repos\Multiplayer Snake\x64\Debug\Multiplayer Snake.exe

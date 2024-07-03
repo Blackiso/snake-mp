@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Multiplayer Snake", "Multiplayer Snake.vcxproj", "{CDB391A0-6694-469E-85C2-32884EDAD91D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDB391A0-6694-469E-85C2-32884EDAD91D}.Debug|x64.ActiveCfg = Debug|x64
+		{CDB391A0-6694-469E-85C2-32884EDAD91D}.Debug|x64.Build.0 = Debug|x64
+		{CDB391A0-6694-469E-85C2-32884EDAD91D}.Debug|x86.ActiveCfg = Debug|Win32
+		{CDB391A0-6694-469E-85C2-32884EDAD91D}.Debug|x86.Build.0 = Debug|Win32
+		{CDB391A0-6694-469E-85C2-32884EDAD91D}.Release|x64.ActiveCfg = Release|x64
+		{CDB391A0-6694-469E-85C2-32884EDAD91D}.Release|x64.Build.0 = Release|x64
+		{CDB391A0-6694-469E-85C2-32884EDAD91D}.Release|x86.ActiveCfg = Release|Win32
+		{CDB391A0-6694-469E-85C2-32884EDAD91D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35BA090C-031F-4E17-A517-AABAF010C3FF}
+	EndGlobalSection
+EndGlobal
